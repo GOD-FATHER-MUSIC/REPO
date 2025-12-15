@@ -91,7 +91,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
 
@@ -106,7 +106,7 @@ class Helper(object):
 ❍ /shayari ➠ ʀᴧηᴅσϻ sʜᴧʏᴧʀɪ ᴛᴧɢ 
 ❍ /shstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /cute ➠ ᴄʜєᴄᴋ ʏσυʀ ᴄυᴛєηєss.
 ❍ /love ➠ ᴧᴅᴅ ᴛᴡᴏ ηᴧϻєs ᴧηᴅ sєє ʟσᴠᴇ ᴘσssɪʙɪʟɪᴛʏ !! `ʟɪᴋᴇ ʀᴧᴊᴧ + sσηᴧ.`
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
 
@@ -131,7 +131,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
 
@@ -143,7 +143,7 @@ class Helper(object):
 ❍ /kang ➠ ʀєᴘʟʏ ᴧηʏ sᴛɪᴄᴋєʀ & ᴄʀєᴀᴛє ʏσᴜʀ sᴛɪᴄᴋєʀ ᴘᴧᴄᴋ
 ❍ /st ➠ ғɪηᴅ ᴏʀɪɢɪηᴧʟ sᴛɪᴄᴋєʀ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
 
@@ -161,7 +161,7 @@ class Helper(object):
 ❍ /truth [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ]
 ❍ /dare : [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
 
@@ -172,7 +172,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
 
@@ -184,7 +184,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
 
@@ -229,7 +229,7 @@ class Helper(object):
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
     HELP_15 = '''```
@@ -238,7 +238,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
 
@@ -255,7 +255,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
 
