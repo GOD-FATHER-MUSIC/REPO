@@ -50,7 +50,7 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @Candyy_music_robot @III_BADNAM_BABY_lll I love You 😘
+ єxᴧϻᴘʟє : @SUKOON_MUSIC_VC_BOT @III_GOD_FATHER_PAPA_lll I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
