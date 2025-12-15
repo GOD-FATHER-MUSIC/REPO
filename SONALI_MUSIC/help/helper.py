@@ -27,7 +27,7 @@ class Helper(object):
 
 ❍ /ask [ǫυєʀʏ] : sєᴧʀᴄʜ ᴛʜє ᴧηʏ ᴛʏᴘє ǫυєsᴛɪση
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
 
@@ -42,7 +42,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ʜɪɴᴅɪ sᴏɴɢs```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
     HELP_03 = '''```
