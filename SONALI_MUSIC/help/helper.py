@@ -57,7 +57,7 @@ class Helper(object):
 
 **❍ /tts : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll) **
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA) **
 '''
 
 
@@ -70,7 +70,7 @@ class Helper(object):
 ❍ /groupinfo : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ ɪηғσ `ᴇx :- /groupinfo ɢʀᴏᴜᴘ ᴜsᴇʀɴᴀᴍᴇ`
 ❍ /status : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ sᴛᴧᴛᴜs
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll)**
+𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA)**
 '''
 
 
@@ -83,7 +83,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /font badnam Baby```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/lll_BADNAM_BABY_lll) **
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ɢᴏᴅ ғᴀᴛʜᴇʀ](https://t.me/GOD_KI_DUNIYA) **
 '''
 
     HELP_06 = '''```
